@@ -1,1 +1,1 @@
-# Smart-calculator
+# Voice Controlled Calculator
